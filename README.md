@@ -37,7 +37,7 @@ The extension only reads the course code and instructor name shown on the page. 
 
 ## Development
 
-Tooling is not set up yet. Project context for contributors and AI agents lives in [AGENTS.md](AGENTS.md).
+Tooling is not set up yet. See [CONTRIBUTING.md](CONTRIBUTING.md) for the branch and PR workflow. Project context for contributors and AI agents lives in [AGENTS.md](AGENTS.md).
 
 ## Disclaimer
 
