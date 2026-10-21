@@ -64,3 +64,5 @@ Name matching is a core problem: registration shows "LAST,FIRST M" style names, 
 - GPA source preference, and is per-instructor GPA required or is per-course enough?
 - Bio source: curated list, UW directory scrape, or link-out only for v1?
 - Intended distribution: personal unpacked use, or Chrome Web Store?
+- Will this be helpful for students?
+
